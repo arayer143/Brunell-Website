@@ -1,7 +1,12 @@
 // Custom.scss
 // Option A: Include all of Bootstrap
 
-$primary: ;
+
+
+
+
+
+$primary: #2f5e5a;
 $info: white;
 $secondary: #2d5855;
 
@@ -368,7 +373,6 @@ body::-webkit-scrollbar{
 
 
 @import "../node_modules/bootstrap/scss/bootstrap";
-/* === Import Bootstrap functions and variables === */
 
 
 // Then add additional custom code here
